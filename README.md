@@ -1,4 +1,4 @@
-# Nhà Sách Mới — Online Bookstore Website
+# Nhà Sách — Online Bookstore Website
 
 A full-stack bookstore web application built with ASP.NET (C#) and SQL Server.
 
