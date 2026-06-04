@@ -2,7 +2,7 @@
 
 A full-stack bookstore web application built with ASP.NET (C#) and SQL Server.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Backend:** ASP.NET, C#
 - **Frontend:** HTML5, CSS3, JavaScript
